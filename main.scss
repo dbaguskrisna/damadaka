@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+ 
+li{
+    font-family: 'Sen', sans-serif;
+}
+
+.about{
+    font-family: 'Sen', sans-serif;
+}
+
+.container-product{
+    background-color: #c2e4da;
+}
+
+.about{
+    padding-top: 15px;
+}
+
+.jumbotron{
+    background-image: url(asset/1.jpg);
+    background-size: cover;
+    height: 640px;
+}
+
+.mrg-t{
+    margin-top: 100px;
+    font-size: 60px;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.chr{
+    font-size: 30px;
+}
+
+.kulit{
+    font-size: 24px;
+}
+
+.list{
+    font-size: 20px;
+}
+
+.content_kulit{
+    font-size: 20px;
+}
+
+
+.ctr_product{
+    background-color: #17D7A0;
+}
+
+.btn-primary{
+    margin-top: 30px;
+}
+
+.rounded{
+    border-radius: 45px;
+}
+
+.product-container{
+    background-color: #c2e4da;
+}
+
+footer{
+    height: 80px;
+    background-color: black;
+    .footer-text{
+        color: white;
+    }
+}
